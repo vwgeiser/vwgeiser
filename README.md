@@ -1,5 +1,5 @@
-- Hello I am @vwgeiser, currently an undergraduate at Saint Louis University
-- I’m interested in atmospheric science and machine learning
+- Hello I am @vwgeiser, currently a Senior undergraduate at Saint Louis University
+- I’m interested in the interaction between Meteorology, Atmospheric Chemistry and Machine Learning
 - I’m currently learning how to use machine learning to predict VOC concentrations in the atmosphere
 - I’m looking to collaborate on the code used in the above project and creating a code base so that there is a lower barrier to entry into machine learning and linear regression
 - How to reach me. I work best over email: vwgeiser@gmail.com
