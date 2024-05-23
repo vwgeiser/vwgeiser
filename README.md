@@ -1,4 +1,4 @@
 - Hello I am @vwgeiser - Meteorogist B.S - Saint Louis University
-- I’m interested in the interaction between Meteorology, Atmospheric Chemistry, and Machine Learning through the understanding and modeling of the atmosphere. 
+- I’m interested in the examining interactionbs between Meteorology, Atmospheric Chemistry, and Machine Learning.
 - I’m looking to collaborate on the code used in my most recent PASTEL project, with the goal a code base so that there is a lower barrier to entry into machine learning 
 - How to reach me. I work best over email: vwgeiser@gmail.com
